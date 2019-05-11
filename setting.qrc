@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>already.png</file>
+        <file>erase.png</file>
+        <file>find.png</file>
+        <file>left_rotation.png</file>
+        <file>right_rotation.png</file>
+    </qresource>
+</RCC>
